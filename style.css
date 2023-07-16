@@ -8,6 +8,11 @@
     box-sizing: inherit;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
 header {
     display: flex;
     align-items: center;
